@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Lemon7squeez aka KingKazdam
+- 👀 I’m interested in making games on Roblox
+- 🌱 I’m currently learning Lua
+- 😄 Pronouns: they/them
+- ⚡ Fun fact: my username (Lemon7squeez) is based of temprist's old username.
